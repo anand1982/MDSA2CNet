@@ -32,7 +32,7 @@ To ensure reproducibility, all images undergo the following pipeline:
 3. **Noise Reduction:** Morphological filtering to emphasize leaf regions.
 4. **Augmentation:** Random flips, rotations ($\pm20^\circ$), scaling ($0.8-1.2x$), and color jittering (brightness, contrast, hue, saturation).
 
-### S2R Dataset Link
+### S2RMCMD Dataset Link
 
 https://data.mendeley.com/datasets/rt8sv9t445/4
 
