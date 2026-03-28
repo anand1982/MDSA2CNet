@@ -61,6 +61,5 @@ https://data.mendeley.com/datasets/rt8sv9t445/4
 
 ### Installation
 ```bash
-git clone [https://github.com/your-username/S2RMCMD-MDSA2CNet.git](https://github.com/your-username/S2RMCMD-MDSA2CNet.git)
-cd S2RMCMD-MDSA2CNet
+git clone https://github.com/anand1982/MDSA2CNet.git
 pip install -r requirements.txt
