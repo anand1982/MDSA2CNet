@@ -61,6 +61,8 @@ https://data.mendeley.com/datasets/rt8sv9t445/4
 
 Jain, Anand Kumar, Dakshita Sharma, and Neeta Nain. "Disease Detection and Classification of Rice Leaves Using Transfer Learning with Concatenate." International Conference on Machine Learning, Image Processing, Network Security and Data Sciences. Cham: Springer Nature Switzerland, 2024.
 
+Jain, Anand Kumar, and Neeta Nain. "Mdtacnet: Mobilenet-densenet and transformer attention hybrid network for multi-crop and multi-disease classification." International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2025.
+
 ---
 ## 🚀 Getting Started
 
