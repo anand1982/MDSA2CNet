@@ -55,11 +55,19 @@ https://data.mendeley.com/datasets/rt8sv9t445/4
 | **Recall** | 94% |
 | **F1-Score** | 95% |
 
----
+### Paper Citation
 
+### Other Related Paper Citation
+
+Jain, Anand Kumar, Dakshita Sharma, and Neeta Nain. "Disease Detection and Classification of Rice Leaves Using Transfer Learning with Concatenate." International Conference on Machine Learning, Image Processing, Network Security and Data Sciences. Cham: Springer Nature Switzerland, 2024.
+
+---
 ## 🚀 Getting Started
 
 ### Installation
 ```bash
 git clone https://github.com/anand1982/MDSA2CNet.git
 pip install -r requirements.txt
+
+
+
