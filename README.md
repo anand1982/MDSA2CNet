@@ -56,7 +56,7 @@ https://data.mendeley.com/datasets/rt8sv9t445/4
 | **F1-Score** | 95% |
 
 ### Paper Citation
-Jain, Anand Kumar, and Neeta Nain. "MDSA2CNet: A Self-Attention-Based Hybrid Deep Learning Model for Disease Detection in Sugarcane and Rice Crops." Agricultural Productivity Research, 2026. (Submitted).
+Anand Kumar Jain and Neeta Nain, "MDSA2CNet: A Self-Attention-Based Hybrid Deep Learning Model for Disease Detection in Sugarcane and Rice Crops Soft Computing" , Soft Computing (Springer ) (Submitted)
 ### Other Related Paper Citation
 
 Jain, Anand Kumar, Dakshita Sharma, and Neeta Nain. "Disease Detection and Classification of Rice Leaves Using Transfer Learning with Concatenate." International Conference on Machine Learning, Image Processing, Network Security and Data Sciences. Cham: Springer Nature Switzerland, 2024.
